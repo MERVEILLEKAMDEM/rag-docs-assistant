@@ -1,5 +1,7 @@
 # 💬 RAG Docs Assistant – assistant GenAI pour conseiller bancaire
 
+[![Tests](https://github.com/MERVEILLEKAMDEM/rag-docs-assistant/actions/workflows/tests.yml/badge.svg)](https://github.com/MERVEILLEKAMDEM/rag-docs-assistant/actions)
+
 Un conseiller cherche une règle dans des dizaines de procédures internes. Cet assistant **retrouve le bon passage et répond en citant sa source**. S'il ne trouve rien, il refuse de répondre au lieu d'inventer.
 
 ```text
