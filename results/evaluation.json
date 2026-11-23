@@ -1,0 +1,32 @@
+{
+  "questions": 24,
+  "hit@1": 0.833,
+  "hit@3": 1.0,
+  "MRR": 0.91,
+  "erreurs": [
+    {
+      "question": "Je peux bloquer ma carte juste quelques heures ?",
+      "attendu": "Conditions d'utilisation de la carte bancaire › Blocage temporaire",
+      "trouve": "Procédure en cas de fraude › Hameçonnage (phishing)",
+      "rang": 2
+    },
+    {
+      "question": "Un paiement que je n'ai pas fait, je serai remboursé quand ?",
+      "attendu": "Procédure en cas de fraude › Opération non autorisée",
+      "trouve": "Conditions d'utilisation de la carte bancaire › Plafonds",
+      "rang": 3
+    },
+    {
+      "question": "Sur combien d'années peut-on emprunter ?",
+      "attendu": "Crédit immobilier › Taux d'endettement",
+      "trouve": "Crédit immobilier › Modulation",
+      "rang": 2
+    },
+    {
+      "question": "Quel est le plafond du Livret A ?",
+      "attendu": "Épargne et placements › Livret A",
+      "trouve": "Épargne et placements › LDDS",
+      "rang": 2
+    }
+  ]
+}

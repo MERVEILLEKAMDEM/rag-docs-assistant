@@ -1,0 +1,5 @@
+numpy
+scikit-learn
+streamlit
+# optionnel : réponse rédigée par un LLM
+anthropic
