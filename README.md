@@ -53,4 +53,4 @@ python -m pytest -q
 **Pistes** : passer à des embeddings et une base vectorielle (FAISS, pgvector), ajouter un re-ranking, et évaluer la fidélité des réponses du LLM.
 
 ---
-Pascale KAMDEM · Data & IA · [LinkedIn](https://www.linkedin.com/in/merveille-kamdem-562aa0284/)
+Pascale KAMDEM · Data & IA · [LinkedIn](https://www.linkedin.com/in/pascale-merveille-kamdem-562aa0284/)
